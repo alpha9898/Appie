@@ -9,8 +9,6 @@
 
 🔗Appie  [https://spiffy-basbousa-c734f6.netlify.app]
 
-<img src="img/" title="Optional title">
-
 ## Authors
 
 Contributors names and contact info
