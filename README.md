@@ -7,7 +7,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf33aa46-3559-4428-ac20-3a6f15b10007/deploy-status)](https://app.netlify.com/sites/omnifood-amar/deploys)
 
-🔗Appie  [https://spiffy-basbousa-c734f6.netlify.app]
+🔗Appie  [https://appie1.netlify.app]
 
 ## Authors
 
