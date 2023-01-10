@@ -19,6 +19,55 @@ color:
   box-sizing: border-box;
 }
 
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.button {
+  animation: pulse 2s infinite;
+}
+
+/* @keyframes slide-in {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+ul {
+  animation: slide-in 1s;
+}  */
+
+/* @keyframes fadeInOut {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+.img {
+  animation: fadeInOut 5s linear infinite;
+} */
+
+.gradient {
+  background: linear-gradient(to right, #586fcb, #326ee8, #2facfc);
+}
+
 html {
   font-size: 62.5%;
 
